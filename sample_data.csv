@@ -1,0 +1,16 @@
+id,name,age,salary,department,hire_date,score,city,notes
+1,Alice,29,55000.50,Engineering,2020-01-15,85.3,New York,Good performer
+2,Bob,35,72000.00,Marketing,2019-06-20,92.1,Los Angeles,  Excellent work  
+3,Charlie,,48000.75,Engineering,2021-03-10,,Chicago,Needs improvement!
+4,Diana,42,91000.00,Sales,2018-11-05,78.9,New York,Top seller
+5,Eve,28,,Marketing,2022-07-01,88.5,,Promising talent
+6,Frank,55,120000.00,Engineering,2015-04-18,95.0,Chicago,Senior lead
+7,Grace,31,62000.25,Sales,2020-09-30,71.2,Los Angeles,average performer
+8,Hank,45,85000.00,Marketing,2017-02-14,0.0,New York,On leave
+9,Ivy,29,55000.50,Engineering,2020-01-15,85.3,New York,Good performer
+10,Jack,-5,999999.99,Sales,2023-01-01,110.5,Unknown,OUTLIER test case
+11,Alice,29,55000.50,Engineering,2020-01-15,85.3,New York,Good performer
+12,Kate,38,73000.00,Marketing,2019-08-22,82.4,Chicago,Reliable
+13,Leo,27,45000.00,Engineering,2023-06-15,67.8,Los Angeles,Junior dev
+14,Mia,33,68000.00,Sales,2021-01-10,89.2,New York,Great closer
+15,Noah,50,105000.00,Engineering,2014-03-01,93.7,Chicago,Principal engineer
