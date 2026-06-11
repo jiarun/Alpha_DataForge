@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.git/
+*.iml
+create_pptx.py
+presentation.pptx
+test_processing.py
